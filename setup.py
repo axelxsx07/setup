@@ -448,8 +448,8 @@ elif choice == 3:
    message = (c)
    e = 0
    while e < d:
-    password = "gogle2000"
-    msg['From'] = "gogle.spport.mx@gmail.com"
+    password = "xmcd xuvb gimd ptoi"
+    msg['From'] = "axelxsx07@gmail.com"
     msg['To'] = (a)
     msg['Subject'] = (b)
     msg.attach(MIMEText(message, 'plain'))
